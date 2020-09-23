@@ -44,6 +44,9 @@ INSTALLED_APPS = [
     "allauth",
     "allauth.account",
     "allauth.socialaccount",
+    # apps
+    "rest_framework",
+    "api_notes",
 ]
 
 SITE_ID = 1
